@@ -142,8 +142,8 @@ MIT License - see [LICENSE](LICENSE) file for details.
 ## 🙋‍♂️ Author
 
 **Denis Shapochkin**
-- GitHub: [@denisshapochkin](https://github.com/denisshapochkin)
-- Email: your.email@example.com
+- GitHub: [@ShapDenis](https://github.com/ShapDenis)
+- Email: deniska.vla@gmail.com
 
 ---
 
